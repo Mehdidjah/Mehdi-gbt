@@ -1,6 +1,5 @@
 # Mehdi GPT - ChatGPT Interface
 
-> **© 2024 Mehdi** - All rights reserved
 
 A beautiful ChatGPT-style interface built with SvelteKit, featuring real-time streaming responses and a modern UI inspired by OpenAI's ChatGPT.
 
